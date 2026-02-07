@@ -1,3 +1,3 @@
 #bin/bash
 
-echo "hi basha, welceme to git"
+echo "hi basha, welcome to git"
